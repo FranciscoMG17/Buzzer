@@ -5,9 +5,10 @@ La idea consiste en sincronizar el parpadeo de un led con el pitido periodico em
 Materiales Utilizados en la Practica:
 
 1 ProtoBoard
-1 Led verde
+1 Led rojo
 1 Buzzer  
 Cables 
 1 Arduino UNO
 1 Resistencia 330 ohms
+1 reed swich
 
